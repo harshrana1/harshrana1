@@ -1,5 +1,20 @@
 # 💫 About Me:
-I'M dresher right now . i have 5 months internship as mern stack developer and i have good knowldge about python java script html css3 and i have intrest in AI/Ml i know Tensorfloe pytorch keras scikit learn ltsm nlp pandas numpy and matplotlib<br>i have also knowledge about web dev dusing skill like react.js node.js express.js mongodb. restful apis <br>i'm also use dev tools like git github docker vscode juupyter notebook and postman<br>conept like deep learnings text classification model optimaization feature engineering agile<br><br> i have 2 project abouts end to end fake news detections sytem and another AI chatbot using python and nlp<br>i laso have google cloud cumputing fundamentals and ethical hackings certificate
+Hi, I’m Harsh Rana — a Python Developer and aspiring AI/ML Engineer with hands-on experience in building intelligent systems and scalable web applications.
+
+I specialize in developing end-to-end machine learning solutions, particularly in Natural Language Processing (NLP), where I’ve built projects like a Fake News Detection System and an AI Chatbot using deep learning models such as LSTM.
+
+With a strong foundation in Python, TensorFlow, PyTorch, and Scikit-learn, I enjoy working on data preprocessing, model training, and optimizing performance for real-world applications. I also bring experience from the MERN stack, allowing me to integrate ML models into full-stack products via REST APIs.
+
+💡 I’m currently focused on:
+
+Advancing my skills in AI, Machine Learning, and Deep Learning
+Building real-world, production-ready ML projects
+Exploring Agentic AI and Generative AI systems
+
+🛠 Tech Stack:
+Python | TensorFlow | PyTorch | NLP | Scikit-learn | Pandas | MERN Stack | Docker | Git
+
+🚀 Goal: To become a skilled AI/ML Engineer and contribute to building impactful, intelligent software solutions.
 
 
 ## 🌐 Socials:
